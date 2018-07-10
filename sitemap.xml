@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.essenburg.com/categories/</loc>
+    <loc>https://essenburg.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.essenburg.com/</loc>
+    <loc>https://essenburg.com/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.essenburg.com/tags/</loc>
+    <loc>https://essenburg.com/tags/</loc>
     <priority>0</priority>
   </url>
   
